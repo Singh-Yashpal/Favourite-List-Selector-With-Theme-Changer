@@ -9,3 +9,5 @@ To move the the next page the user has to select exactly 4 word-pairs and hit th
 
 The second page of the app has 4 pictures which when tapped upon gets flipped and one of the word-pair
 which was selected earlier will appear.
+
+-----------------------------------------------------------------------------------------------------------

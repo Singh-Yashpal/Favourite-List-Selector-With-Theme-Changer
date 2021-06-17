@@ -1,4 +1,4 @@
-// BT19CSE082 Yashpal Singh Baghel
+// Hello this is Yashpal Singh
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
